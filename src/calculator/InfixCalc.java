@@ -15,7 +15,7 @@ https://learn.umuc.edu/d2l/le/content/330288/viewContent/13092754/View.
 
 
  */
-package project1;
+package calculator;
 
 import java.util.LinkedList;
 import java.util.Stack;

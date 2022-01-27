@@ -5,7 +5,7 @@ Date: 03NOV2018
 Purpose: Project 1 exception class instantiated whenever expression includes
 a zero in the denominator.
  */
-package project1;
+package calculator;
 
 public class DivideByZeroException extends Exception {
 

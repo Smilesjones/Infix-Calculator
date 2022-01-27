@@ -12,7 +12,7 @@ References used to help create code:
 from http://www.java2s.com/Code/Java/Swing-JFC/BoxLayoutGlueSample.htm
 
  */
-package project1;
+package calculator;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
